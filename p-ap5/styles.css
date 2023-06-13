@@ -1,0 +1,28 @@
+/**{
+    box-sizing: border-box;
+}
+*/
+.body{
+  
+}
+.main-header {
+    
+    background-color: white;
+    padding-bottom: 30px;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+
+}
+.core {
+    background-color: antiquewhite;
+    
+}
+
+.aside{
+    position:fixed;
+    top:200px;
+    left:1000px;
+}
+
